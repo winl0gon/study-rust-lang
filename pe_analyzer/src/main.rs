@@ -49,6 +49,10 @@ fn main() -> io::Result<()> {
         pe_file[machine_type_offset]
     );
 
+    // Calculate RichHeader
+    
+
+    // Calculate noOfSectionsOffset and noOfSections
 
     Ok(())
 }
