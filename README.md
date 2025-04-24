@@ -1,6 +1,6 @@
 # Rust Programming Language
-
-## Resources
+---------------------------------------
+## Learning Resources
 
 | Title | URL |
 |------|------|
@@ -10,4 +10,8 @@
 | Rust by Example | [https://doc.rust-lang.org/rust-by-example/index.html](https://doc.rust-lang.org/rust-by-example/index.html) |
 | 러스트 프로그래밍 언어 (번역) | [https://doc.rust-kr.org/#the-rust-programming-language](https://doc.rust-kr.org/#the-rust-programming-language) |
 
+## More Resources
 
+| Title | URL |
+|------|------|
+| evtx | [https://github.com/omerbenamram/evtx](https://github.com/omerbenamram/evtx/) |
